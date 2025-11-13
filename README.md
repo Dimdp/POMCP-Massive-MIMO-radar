@@ -1,3 +1,3 @@
 # POMCP-Massive-MIMO-radar
-This code is associated with the article 'POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances
-'
+This code is associated with the article POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances
+https://arxiv.org/abs/2410.17967v2
